@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1736624196 source:c:\users\xtezi\onedrive\dokumenty\moja_aplikacja\consoleos super edition\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<chrono>
+	<cstdlib>
+	<thread>
+	"commands.h"
+
+1735847672 source:c:\users\xtezi\onedrive\dokumenty\moja_aplikacja\consoleos super edition\komendy.cpp
+	<iostream>
+	"main.cpp"
+
+1735847725 c:\users\xtezi\onedrive\dokumenty\moja_aplikacja\consoleos super edition\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<chrono>
+	<thread>
+
+1743194618 c:\users\xtezi\onedrive\dokumenty\moja_aplikacja\consoleos super edition\commands.h
+	<iostream>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<vector>
+	<map>
+
